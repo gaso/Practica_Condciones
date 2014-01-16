@@ -1,0 +1,13 @@
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\bin\Debug\metodos.exe.config
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\bin\Debug\metodos.exe
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\bin\Debug\metodos.pdb
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\obj\Debug\metodos.csprojResolveAssemblyReference.cache
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\obj\Debug\MainWindow.baml
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\obj\Debug\MainWindow.g.cs
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\obj\Debug\App.g.cs
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\obj\Debug\metodos_MarkupCompile.cache
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\obj\Debug\metodos.g.resources
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\obj\Debug\metodos.Properties.Resources.resources
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\obj\Debug\metodos.csproj.GenerateResource.Cache
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\obj\Debug\metodos.exe
+c:\users\gusta_000\documents\visual studio 2012\Projects\metodos\metodos\obj\Debug\metodos.pdb
